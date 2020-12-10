@@ -15,6 +15,7 @@ runs:
 branding:
   icon: "mic"
   color: "purple"
+
 jobs:
   build:
     name: Hello world action
